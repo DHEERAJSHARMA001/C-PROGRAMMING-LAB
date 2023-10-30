@@ -1,21 +1,3 @@
-/*#include<stdio.h>
-int main()
-{
-    int num,first=0,second=1,i,next;
-    printf("enter the number:");
-    scanf("%d",&num);
-    for( i=1;i<=num;i++)
-    {
-    
-        next=first+second;
-        first=second;
-        second=next;
-        printf("%d\n",next);
-    }
-
-    return 0;
-} */
-
 #include<stdio.h>
 int main()
 {
